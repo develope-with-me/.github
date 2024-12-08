@@ -13,10 +13,10 @@
 ![Logo](link-to-your-logo) <!-- Optional: Add your organization logo -->
 
 ## Guide
-- [About Us 🙋‍♀️](#about-us)
+- [About Us🙋‍♀️](#about-us)
 - [Our Mission](#our-mission)
-- [Projects 👩‍💻](#projects)
-- [Contribution Guidelines 🌈](#contribution-guidelines)
+- [Projects👩‍💻](#projects)
+- [Contribution Guidelines🌈](#contribution-guidelines)
     - [General Guide](#general-guide)
     - [Issue Code](#issue-code)
     - [Contribution Practices](#contribution-practices)
@@ -30,11 +30,11 @@
     - [Scope](#scope)
     - [Enforcement](#enforcement)
     - [Attribution](#attribution)
-- [Community 🍿](#community)
-- [License](#community)
-- [Contact Us 🧙](#contact-us)
+- [Community🍿](#community)
+- [License](#license)
+- [Contact Us🧙](#contact-us)
 
-## About Us 🙋‍♀️
+## About Us🙋‍♀️
 
 We are a community of developers, designers, and tech enthusiasts committed to fostering innovation and making life easy for business and product owners. 
 Our goal is to create impact through tech by developing and/or enhancing tools needed by business owners to make the day-to-day running of their businesses smooth, and empowering and supporting developers.
@@ -46,7 +46,7 @@ At DWM, we believe in the power of communication, collaboration and teamwork. Ou
 - **Empower Developers**: We provide resources, tools, and support to help developers grow and succeed.
 - **Foster Innovation**: We encourage creativity and experimentation, supporting projects that push the boundaries of technology.
 
-## Projects 👩‍💻
+## Projects👩‍💻
 
 Here are some of the key projects we are working on:
 
@@ -55,7 +55,7 @@ Here are some of the key projects we are working on:
   - ecomie-web 
 
 
-## Contribution Guidelines 🌈
+## Contribution Guidelines🌈
 
 ### **General Guide**
 
@@ -158,7 +158,7 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 For answers to common questions about this code of conduct, see the [FAQ](https://www.contributor-covenant.org/faq).
 
-## Community 🍿
+## Community🍿
 
 Join our community discussions:
 
@@ -170,7 +170,7 @@ Join our community discussions:
 
 This project is licensed under the [License Name](link-to-license).
 
-## Contact Us 🧙
+## Contact Us🧙
 
 For inquiries, please reach out to us at domoubrice@gmail.com.
 
