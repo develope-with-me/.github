@@ -13,10 +13,10 @@
 ![Logo](link-to-your-logo) <!-- Optional: Add your organization logo -->
 
 ## Guide
-- [About Us](#about-us)
+- [About Us 🙋‍♀️](#about-us)
 - [Our Mission](#our-mission)
-- [Projects](#projects)
-- [Contribution Guidelines](#contribution-guidelines)
+- [Projects 👩‍💻](#projects)
+- [Contribution Guidelines 🌈](#contribution-guidelines)
     - [General Guide](#general-guide)
     - [Issue Code](#issue-code)
     - [Contribution Practices](#contribution-practices)
@@ -24,15 +24,15 @@
         - [Committing your changes](#committing-your-changes)
         - [When you have completed a task](#when-you-have-completed-a-task)
 - [Code of Conduct](#code-of-conduct)
-    - [Our Pledge](#general-guide)
-    - [Our Standards](#issue-code)
-    - [Our Responsibilities](#contribution-practices)
+    - [Our Pledge](#our-pledge)
+    - [Our Standards](#our-standards)
+    - [Our Responsibilities](#our-responsibilities)
     - [Scope](#scope)
-    - [Enforcement](#enforment)
-    - [Attribute](#attribut)
-- [Community](#community)
+    - [Enforcement](#enforcement)
+    - [Attribution](#attribution)
+- [Community 🍿](#community)
 - [License](#community)
-- [Contact Us](#contact-us)
+- [Contact Us 🧙](#contact-us)
 
 ## About Us 🙋‍♀️
 
