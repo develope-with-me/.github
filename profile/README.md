@@ -72,7 +72,7 @@ For development purposes, we attribute a code to the issue called **Issue Code**
 Issue codes are used when creating branches and also when committing our changes. In branches, they are in small letters while in commits they are capitalized.  
 
 For example consider the ecomie project, it has **ec** as project code. Assuming we have an issue with id **36** then in a branch about that issue the Issue Code would look like this
-**ec-t-36** while in a commit message it would look like **EC-T-36**.
+**ec-t-36** while in a commit message it would look like this **EC-T-36**.
 Check repository README to get Project Code.
    
 ### **Contribution Practices**
@@ -109,7 +109,7 @@ Check repository README to get Project Code.
    ```
    git push origin <branch-name>
    ```
-2. Go to GitHub and make a Pull Request (PR) to main. 
+2. Go to GitHub and make a Pull Request (PR) to the main. 
 3. Request review
 
 ## Code of Conduct
@@ -121,7 +121,7 @@ identity and expression, level of experience, nationality, personal appearance, 
 
 ### Our Standards
 
-Examples of behavior that contributes to a positive environment include:
+Examples of behaviour that contributes to a positive environment include:
 
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
@@ -129,7 +129,7 @@ Examples of behavior that contributes to a positive environment include:
 - Focusing on what is best for the community
 - Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+Examples of unacceptable behaviour by participants include:
 
 - The use of sexualized language or imagery and unwelcome sexual attention or advances
 - Trolling, insulting, or derogatory comments
@@ -140,7 +140,7 @@ Examples of unacceptable behavior by participants include:
 
 ### Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Project maintainers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
 
 ### Scope
 
@@ -149,7 +149,7 @@ using an official project email address, posting via an official social media ac
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [domoubrice@gmail.com]. All complaints will be reviewed and investigated
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the project team at domoubrice@gmail.com. All complaints will be reviewed and investigated
 and will result in a response that is deemed necessary and appropriate to the circumstances. 
 
 ### Attribution
