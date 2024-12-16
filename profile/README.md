@@ -99,9 +99,9 @@ Check repository README to get Project Code.
    ```
    git add .
    ``` 
-2. Commit your changes by running the **git commit** command. Your commit message must follow the format EC-T-[issue-number] | Actual message e.g. _git commit -m "EC-T-36 | Created all buttons"_
+2. Commit your changes by running the **git commit** command. Your commit message must follow the format EC-T-[issue-number] | Actual message - Fixes #issue-number e.g. _git commit -m "EC-T-36 | Created all buttons - Fixes #36"_
    ```
-   git commit -m "EC-T-36 | Created all buttons. - Fixes #36"
+   git commit -m "EC-T-36 | Created all buttons - Fixes #36"
    ```
 
 #### When you have completed a task
